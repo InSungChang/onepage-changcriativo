@@ -167,7 +167,7 @@ label {
   position: fixed;
   top: 5px;
   right: 15px;
-  
+
   color: rgba(0, 0, 0, 0.5);
 }
 
@@ -320,7 +320,7 @@ main h2 {
 
   /* para centralizar */
   background-size: cover;
-  background-position: center;  
+  background-position: center;
 }
 
 #textoWire {
@@ -375,7 +375,7 @@ main h2 {
   background-color: #e8e8e8;
   /* para centralizar */
   background-size: cover;
-  background-position: center;  
+  background-position: center;
 }
 
 #seraentregue {
@@ -394,7 +394,7 @@ main h2 {
   text-align: right;
 }
 
-.Circulo2 img{
+.Circulo2 img {
   width: 300px;
   height: 315px;
 }
@@ -413,6 +413,7 @@ address {
 address p {
   text-shadow: #000 0.05em 0.05em 0.05em;
 }
+
 address a {
   text-decoration: none;
   color: #000;
@@ -609,7 +610,7 @@ footer a {
   #video {
     padding: 28px;
   }
-  
+
   #video iframe {
     width: 340px;
     height: 191px;
@@ -653,7 +654,7 @@ footer a {
     display: flex;
     justify-content: space-evenly;
   }
-  
+
   address {
     padding-top: 50px;
   }
@@ -669,4 +670,10 @@ footer a {
   #googleMaps {
     display: inline;
   }
+
+  #googleMaps iframe {
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  }
+
 }
