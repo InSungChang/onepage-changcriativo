@@ -395,8 +395,8 @@ main h2 {
 }
 
 .Circulo2 img {
-  width: 300px;
-  height: 315px;
+  width: 216px;
+  height: 226.8px;
 }
 
 #qrcode {
@@ -485,6 +485,18 @@ footer a {
   #social {
     margin: 0;
   }
+
+  #entregue {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .Circulo2 img {
+    padding-left: 150px;
+    width: 300px;
+    height: 315px;
+  }
+  
 }
 
 /* Tablet Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -653,6 +665,12 @@ footer a {
   #entregue {
     display: flex;
     justify-content: space-evenly;
+  }
+
+  .Circulo2 img {
+    padding-left: 150px;
+    width: 300px;
+    height: 315px;
   }
 
   address {
