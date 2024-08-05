@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/professorjosedeassis/html5css3)
+<!-- ![GitHub](https://img.shields.io/github/license/professorjosedeassis/html5css3)
 ![W3C Validation](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fhtml5css3.com.br%2F)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhtml5css3.com.br)
 
@@ -8,25 +8,25 @@
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
             alt="CSS válido!" />
     </a>
-</p>
+</p> -->
 
 # Site One Page
-Aprenda HTML5, CSS3 e técnicas de SEO desenvolvendo passo a passo do "zero" até a hospedagem um site one page moderno e responsivo.
+Oferecemos atendimento personalizado e criativo, destacando produtos de forma marcante e atraente, adaptados às necessidades dos clientes
 
-Este repositório também hospeda o projeto final:
+<!-- Este repositório também hospeda o projeto final: -->
 
-[https://html5css3.com.br/](https://html5css3.com.br/)
+<!-- [https://html5css3.com.br/](https://html5css3.com.br/) -->
 
-### Autor
+<!-- ### Autor
 Professor José de Assis
 ### Apresentação
-[![HTML5 e CSS3 - One Page Site](https://img.youtube.com/vi/bS720dGvAn8/0.jpg)](https://youtu.be/bS720dGvAn8 "Apresentação do projeto")
+[![HTML5 e CSS3 - One Page Site](https://img.youtube.com/vi/bS720dGvAn8/0.jpg)](https://youtu.be/bS720dGvAn8 "Apresentação do projeto") -->
 
-![YouTube Video Views](https://img.shields.io/youtube/views/bS720dGvAn8?style=social)
+<!-- ![YouTube Video Views](https://img.shields.io/youtube/views/bS720dGvAn8?style=social)
 ### Iniciar tutorial
 ▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
 ### Certificado deste tutorial
-🎓 [Iniciar teste](https://docs.google.com/forms/d/e/1FAIpQLSejGPKboMgEEKovik-yuKhmNeQdMfyny9gheiRnMzHKl9lajQ/viewform)
+🎓 [Iniciar teste](https://docs.google.com/forms/d/e/1FAIpQLSejGPKboMgEEKovik-yuKhmNeQdMfyny9gheiRnMzHKl9lajQ/viewform) -->
 
 ---
 
@@ -65,15 +65,15 @@ Professor José de Assis
 
 [css](https://jigsaw.w3.org/css-validator/)
 
-## Como apoiar os tutoriais e projetos?
+<!-- ## Como apoiar os tutoriais e projetos?
 ### Você pode me pagar um café! ☕
 
 #### Chave PIX:
 ` josedeassisfilho@gmail.com `
 ### Você também pode:
-:heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
+:heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1) -->
 
-:heavy_check_mark: Compartilhar os tutoriais e projetos
+<!-- :heavy_check_mark: Compartilhar os tutoriais e projetos
 
 :heavy_check_mark: Seguir-me nas redes sociais:
 <p align="left">
@@ -83,5 +83,5 @@ Professor José de Assis
 <a href="https://instagram.com/prof.joseassis" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/instagram.png" alt="prof.joseassis" height="48" width="48" /></a>
 <a href="https://twitter.com/joseassis" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/twitter.png" alt="joseassis" height="48" width="48" /></a>
 </p>
-
-### :smiley: Muito obrigado pelo apoio!
+ -->
+<!-- ### :smiley: Muito obrigado pelo apoio! -->
